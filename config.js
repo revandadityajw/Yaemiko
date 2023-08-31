@@ -10,23 +10,18 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['6289518562932', '美Vynaa', true] //Ganti aja
-]
-global.oc = [
-['6282389924037', '美Vynaa', true] //Ganti aja
-['6282389924037', '美Vynaa', true] //Ganti aja
-['6282389924037', '美Vynaa', true] //Ganti aja
+['6289518562932', 'RepanAja', true] //Ganti aja
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '6282389924037' //Ganti
+global.nomorwa = '6289518562932' //Ganti
 global.packname = '© Sticker by'
-global.author = 'Yaemiko-MD'
-global.namebot = 'Yaemiko - MD'
-global.wm = '© Yaemiko MD By VynaChan'
+global.author = 'Vanzz-MD'
+global.namebot = 'VanzzBotz - MD'
+global.wm = '© Vanzz MD'
 global.stickpack = '© Sticker by'
-global.stickauth = 'Yaemiko-MD'
+global.stickauth = 'Vanzz-MD'
 // Link Sosmed
 global.sig = 'https://instagram.com/_xwby_?igshid=ZDc4ODBmNjlmNQ=='
 global.sgh = 'https://github.com/Xyroinee'
@@ -36,11 +31,11 @@ global.psaweria = 'https://shoplinks.to/vyna-store'
 global.ptrakterr = 'https://shoplinks.to/vyna-store'
 global.povo = '0823-8992-4037'
 // Info Wait
-global.wait = '⏳ Proses...'
-global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
+global.wait = 'Tunggu bentar ya mek...'
+global.eror = 'Error njir,sorry '
 global.multiplier = 69 
 // Apikey
-global.xyro = 'j9XFN6zChx'
+global.xyro = '82LFKH7zZh'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
 // Gapunya Apikey? Ya Daftar
@@ -53,7 +48,7 @@ global.APIs = {
 
 /*Apikey*/
 global.APIKeys = {
-    "https://api.xyroinee.xyz": "j9XFN6zChx",
+    "https://api.xyroinee.xyz": "82LFKH7zZh",
 }
 
 let file = fileURLToPath(import.meta.url)
